@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "e.g. title",
+      "description": "e.g. desc",
+      "id": 1
+    },
+    {
+      "title": "house",
+      "description": "bum",
+      "id": 2
+    },
+    {
+      "title": "poop",
+      "description": "doop",
+      "id": 3
+    }
+  ]
+}
