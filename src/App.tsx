@@ -63,7 +63,7 @@ function App() {
 <PostsPage />
 </div>
 <div>
-    2. React Router with loader
+    2. React Router with loader that send fetch request before component render
 <RouterProvider router={router} />
 </div>
 

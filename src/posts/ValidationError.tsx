@@ -10,8 +10,7 @@ export function ValidationError({ fieldError }: Props) {
  }
 
  return (
-    <div role="alert" className="text-red-500 text-xs 
-    mt-1">
+    <div role="alert" className="text-red-500 text-xs mt-1">
     {fieldError.message}
     </div>
  );
