@@ -6,29 +6,14 @@
       "id": 1
     },
     {
-      "title": "house",
-      "description": "mouse mouse",
+      "title": "Autumn",
+      "description": "the leaves are starting to fall",
       "id": 2
     },
     {
-      "title": "peep",
-      "description": "beeb beeb",
+      "title": "Pizza",
+      "description": "good for lunch",
       "id": 3
-    },
-    {
-      "title": "look",
-      "description": "books",
-      "id": 4
-    },
-    {
-      "title": "house",
-      "description": "mouse",
-      "id": 5
-    },
-    {
-      "title": "beans",
-      "description": "meas",
-      "id": 6
     }
   ]
 }
